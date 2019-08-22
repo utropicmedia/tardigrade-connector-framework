@@ -19,8 +19,6 @@ The Tardigrade Connector Framework[TCF] is a basic set of utility methods and op
 
 The SCF requires [Go](https://golang.org/) to run.
 
-Install the dependencies and devDependencies and start the server.
-
 Install storj-uplink go package, by running:
 
 
