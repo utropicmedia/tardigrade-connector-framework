@@ -1,5 +1,5 @@
 
-![tardigrade-connector-framework-logo](https://raw.githubusercontent.com/utropicmedia/tardigrade-connector-framework/master/images/conector-framework-arch.png)
+![tardigrade-connector-framework-arch](https://raw.githubusercontent.com/utropicmedia/tardigrade-connector-framework/master/images/conector-framework-arch.png)
 
 
 # Tardigrade Connector Framework
