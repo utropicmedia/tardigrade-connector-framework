@@ -4,7 +4,7 @@
 
 # Tardigrade Connector Framework
 
-The Tardigrade Connector Framework[TCF] is a basic set of utility methods and operations to provide a consisten approach to integrating and orchestrating interactions between data sources, endpoints, and the Tardigrade network.  Some of the aspects we address are:
+The Tardigrade Connector Framework[TCF] is a basic set of utility methods and operations to provide a consistent approach to integrating and orchestrating between data sources, endpoints, and the Tardigrade network.  Some of the aspects we address are:
   
   - Buffering/Resource management
   - Abstraction
