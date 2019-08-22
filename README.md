@@ -15,6 +15,10 @@ The Tardigrade Connector Framework[TCF] is a basic set of utility methods and op
   - Logging
 
 
+# NOTE
+
+The current state of this project is pre-release alpha.  This message will be removed upon release commit.
+
 ### Installation
 
 The SCF requires [Go](https://golang.org/) to run.
