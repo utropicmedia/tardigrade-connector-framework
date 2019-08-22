@@ -1,0 +1,7 @@
+{ 
+    "apikey":     "",
+    "satellite":  "mars.tardigrade.io:7777",
+    "bucket":     "bucket02",
+	"uploadPath": "",
+    "encryptionpassphrase": "test"
+}

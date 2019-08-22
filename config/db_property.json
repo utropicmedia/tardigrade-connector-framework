@@ -1,0 +1,7 @@
+{ 
+    "hostname": "localhost",
+    "port":     "27017",
+    "username": "test",
+    "password": "test",
+    "database": "storj-test"
+}
