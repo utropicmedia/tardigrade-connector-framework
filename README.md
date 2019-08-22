@@ -1,5 +1,5 @@
 
-![tardigrade-connector-framework-arch](https://raw.githubusercontent.com/utropicmedia/tardigrade-connector-framework/master/images/connector-framework-arch.png)
+![tardigrade-connector-framework-logo](https://raw.githubusercontent.com/utropicmedia/tardigrade-connector-framework/master/images/conector-framework-arch.png)
 
 
 # Tardigrade Connector Framework
@@ -18,6 +18,8 @@ The Tardigrade Connector Framework[TCF] is a basic set of utility methods and op
 ### Installation
 
 The SCF requires [Go](https://golang.org/) to run.
+
+Install the dependencies and devDependencies and start the server.
 
 Install storj-uplink go package, by running:
 
