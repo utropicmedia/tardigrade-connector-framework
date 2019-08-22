@@ -11,7 +11,6 @@ The Tardigrade Connector Framework[TCF] is a basic set of utility methods and op
   - Data Transformation
   - Configuration
   - Authentication
-  - Operations
   - Logging
 
 
